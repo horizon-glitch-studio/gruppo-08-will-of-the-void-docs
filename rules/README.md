@@ -10,8 +10,8 @@ The base rules required by the project brief: cards, factions, decks and match. 
 
 | File | Content | Status | Open `[TBD]` |
 | --- | --- | --- | --- |
-| [glossary.md](glossary.md) | Official terms, with the Italian equivalent for the team | Review | – |
-| [factions.md](factions.md) | Factions, inert factions, advantages and the advantage matrix | Draft | – |
+| [glossary.md](glossary.md) | Official terms, with the Italian equivalent for the team | Stable | – |
+| [factions.md](factions.md) | Factions, inert factions, advantages and the advantage matrix | Stable | – |
 | [cards-and-rarities.md](cards-and-rarities.md) | Rarities, points, ATK and DEF ranges, Wanderer duration, memory archive | Draft | – |
 | [card-set.md](card-set.md) | Starting card set and the values of every card | Draft | – |
 | [decks.md](decks.md) | Deck constraints, starter deck, defense deck, deck validity | Draft | – |

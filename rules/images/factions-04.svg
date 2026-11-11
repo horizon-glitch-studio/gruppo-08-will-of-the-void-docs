@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 670" width="640" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="640" height="670" rx="16" fill="#ffffff"/>
+<defs>
+<marker id="v1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#ec4fb8"/></marker>
+<marker id="v2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8b5cf6"/></marker>
+<marker id="v3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3aa6f0"/></marker>
+<marker id="v4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f2b705"/></marker>
+</defs>
+<text x="320.0" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#1f1f1f">Four triangles</text>
+<text x="320.0" y="62" text-anchor="middle" font-size="14" fill="#555">Every advantage belongs to one cycle of three factions.</text>
+<line x1="380.5" y1="112.5" x2="259.5" y2="112.5" stroke="#ec4fb8" stroke-width="3.5" stroke-linecap="round" marker-end="url(#v1)"/>
+<line x1="196.5" y1="148.8" x2="136.0" y2="253.6" stroke="#ec4fb8" stroke-width="3.5" stroke-linecap="round" marker-end="url(#v1)"/>
+<line x1="151.4" y1="269.0" x2="386.1" y2="133.5" stroke="#ec4fb8" stroke-width="3.5" stroke-linecap="round" marker-end="url(#v1)"/>
+<line x1="217.5" y1="425.5" x2="217.5" y2="154.5" stroke="#8b5cf6" stroke-width="3.5" stroke-linecap="round" marker-end="url(#v2)"/>
+<line x1="253.9" y1="133.5" x2="488.6" y2="269.0" stroke="#8b5cf6" stroke-width="3.5" stroke-linecap="round" marker-end="url(#v2)"/>
+<line x1="488.6" y1="311.0" x2="253.9" y2="446.5" stroke="#8b5cf6" stroke-width="3.5" stroke-linecap="round" marker-end="url(#v2)"/>
+<line x1="504.0" y1="253.6" x2="443.5" y2="148.8" stroke="#3aa6f0" stroke-width="3.5" stroke-linecap="round" marker-end="url(#v3)"/>
+<line x1="422.5" y1="154.5" x2="422.5" y2="425.5" stroke="#3aa6f0" stroke-width="3.5" stroke-linecap="round" marker-end="url(#v3)"/>
+<line x1="443.5" y1="431.2" x2="504.0" y2="326.4" stroke="#3aa6f0" stroke-width="3.5" stroke-linecap="round" marker-end="url(#v3)"/>
+<line x1="196.5" y1="431.2" x2="136.0" y2="326.4" stroke="#f2b705" stroke-width="3.5" stroke-linecap="round" marker-end="url(#v4)"/>
+<line x1="151.4" y1="311.0" x2="386.1" y2="446.5" stroke="#f2b705" stroke-width="3.5" stroke-linecap="round" marker-end="url(#v4)"/>
+<line x1="380.5" y1="467.5" x2="259.5" y2="467.5" stroke="#f2b705" stroke-width="3.5" stroke-linecap="round" marker-end="url(#v4)"/>
+<circle cx="217.5" cy="112.5" r="36" fill="#ffffff" stroke="#1f1f1f" stroke-width="2"/>
+<text x="217.5" y="117.5" text-anchor="middle" font-size="14" font-weight="700" fill="#1f1f1f">Lava</text>
+<circle cx="422.5" cy="112.5" r="36" fill="#ffffff" stroke="#1f1f1f" stroke-width="2"/>
+<text x="422.5" y="117.5" text-anchor="middle" font-size="14" font-weight="700" fill="#1f1f1f">Electro</text>
+<circle cx="525.0" cy="290.0" r="36" fill="#ffffff" stroke="#1f1f1f" stroke-width="2"/>
+<text x="525.0" y="295.0" text-anchor="middle" font-size="14" font-weight="700" fill="#1f1f1f">Metal</text>
+<circle cx="422.5" cy="467.5" r="36" fill="#ffffff" stroke="#1f1f1f" stroke-width="2"/>
+<text x="422.5" y="472.5" text-anchor="middle" font-size="14" font-weight="700" fill="#1f1f1f">Ice</text>
+<circle cx="217.5" cy="467.5" r="36" fill="#ffffff" stroke="#1f1f1f" stroke-width="2"/>
+<text x="217.5" y="472.5" text-anchor="middle" font-size="14" font-weight="700" fill="#1f1f1f">Radio</text>
+<circle cx="115.0" cy="290.0" r="36" fill="#ffffff" stroke="#1f1f1f" stroke-width="2"/>
+<text x="115.0" y="295.0" text-anchor="middle" font-size="14" font-weight="700" fill="#1f1f1f">Matte</text>
+<line x1="40" y1="530" x2="80" y2="530" stroke="#ec4fb8" stroke-width="3.5"/>
+<text x="92" y="535" font-size="14" fill="#1f1f1f">Electro → Lava → Matte → Electro</text>
+<line x1="40" y1="556" x2="80" y2="556" stroke="#8b5cf6" stroke-width="3.5"/>
+<text x="92" y="561" font-size="14" fill="#1f1f1f">Radio → Lava → Metal → Radio</text>
+<line x1="40" y1="582" x2="80" y2="582" stroke="#3aa6f0" stroke-width="3.5"/>
+<text x="92" y="587" font-size="14" fill="#1f1f1f">Metal → Electro → Ice → Metal</text>
+<line x1="40" y1="608" x2="80" y2="608" stroke="#f2b705" stroke-width="3.5"/>
+<text x="92" y="613" font-size="14" fill="#1f1f1f">Radio → Matte → Ice → Radio</text>
+<line x1="40" y1="634" x2="80" y2="634" stroke="#ffffff" stroke-width="3.5"/>
+<text x="92" y="639" font-size="14" fill="#1f1f1f">Opposite factions are even: Lava and Ice, Electro and Radio, Metal and Matte.</text>
+</svg>
