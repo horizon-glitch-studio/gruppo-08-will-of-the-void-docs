@@ -12,7 +12,7 @@ The base rules required by the project brief: cards, factions, decks and match. 
 | --- | --- | --- | --- |
 | [glossary.md](glossary.md) | Official terms, with the Italian equivalent for the team | Stable | – |
 | [factions.md](factions.md) | Factions, inert factions, advantages and the advantage matrix | Stable | – |
-| [cards-and-rarities.md](cards-and-rarities.md) | Rarities, points, ATK and DEF ranges, Wanderer duration, memory archive | Draft | – |
+| [cards-and-rarities.md](cards-and-rarities.md) | Rarities, points, ATK and DEF ranges, Wanderer duration, memory archive | Stable | – |
 | [card-set.md](card-set.md) | Starting card set and the values of every card | Draft | – |
 | [decks.md](decks.md) | Deck constraints, starter deck, defense deck, deck validity | Draft | – |
 | [match.md](match.md) | How a match is simulated: clash, rounds, Energy, end of match | Draft | – |
