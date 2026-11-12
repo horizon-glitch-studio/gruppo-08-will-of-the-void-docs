@@ -4,9 +4,7 @@ Reference specification of the game rules. It is the single source of truth for 
 
 ## Index
 
-### Core rules
-
-The base rules required by the project brief: cards, factions, decks and match. Every other mode builds on them without changing them.
+### Rules
 
 | File | Content | Status | Open `[TBD]` |
 | --- | --- | --- | --- |
@@ -14,20 +12,13 @@ The base rules required by the project brief: cards, factions, decks and match. 
 | [factions.md](factions.md) | Factions, inert factions, advantages and the advantage matrix | Stable | – |
 | [cards-and-rarities.md](cards-and-rarities.md) | Rarities, points, ATK and DEF ranges, Wanderer duration, memory archive | Stable | – |
 | [card-set.md](card-set.md) | Starting card set and the values of every card | Draft | – |
-| [decks.md](decks.md) | Deck constraints, starter deck, defense deck, deck validity | Draft | – |
+| [decks.md](decks.md) | Deck constraints, starter deck, defense deck, deck validity | Review | 1 |
 | [match.md](match.md) | How a match is simulated: clash, rounds, Energy, end of match | Draft | – |
-
-### Platform rules
-
-The rules of the portal around the base game: modes, ranking, packs, economy and trades.
-
-| File | Content | Status | Open `[TBD]` |
-| --- | --- | --- | --- |
 | [game-modes.md](game-modes.md) | Friend, Quick and Ranked matches, opponent search, shield, rematch, tournament (phase 2) | Draft | – |
 | [ranking.md](ranking.md) | Trophies (Elo), seasons, Orbits | Draft | – |
-| [packs.md](packs.md) | Standard and event packs, slots, probabilities, guarantees | Draft | – |
-| [economy.md](economy.md) | Shards, rewards, conversion to real money (phase 2) | Draft | – |
 | [trades.md](trades.md) | Trade rules, minimum collection threshold | Draft | – |
+| [packs.md](packs.md) | Standard and event packs, slots, probabilities, guarantees | Draft | – |
+| [economy.md](economy.md) | Shards, rewards, conversion to real money (from phase 2) | Draft | – |
 
 ### Reference
 
@@ -68,10 +59,9 @@ Status: **Draft** (being written), **Review** (complete, waiting for review), **
 - In the text, write the value followed by the parameter name: "30 Energy (`WIN_THRESHOLD_RANKED`)".
 - [parameters.md](parameters.md) holds the reference value of every parameter. When a value changes, update it there first, then the text.
 
-### Rationale and examples
+### Rationale
 
 - Every file ends with a **Rationale** section that explains why the rules are as they are. The brief asks for every choice to be motivated.
-- Examples use tables, round by round when they show a match.
 
 ## Open items
 
@@ -82,8 +72,6 @@ Two inline tags mark what is not final. Both are searchable across the folder.
 | `[TBD]` | To be decided |
 | `[TEST]` | Decided, but the value must be confirmed by tests |
 
-Example: "+1 Energy per surviving creature (`END_BONUS_PER_CARD`) `[TEST]`".
-
-When an open item needs work from someone outside the rules (a database change, a backend parameter, a price), it also gets a GitHub issue, linked next to the tag.
+> Example: "+4 Energy per surviving creature (`END_BONUS_PER_CARD`) `[TEST]`".
 
 The count of open `[TBD]` tags in the index is updated when a file changes status.
