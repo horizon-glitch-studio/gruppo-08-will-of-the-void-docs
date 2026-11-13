@@ -39,7 +39,7 @@ A deck is a set of cards from the collection that a Summoner uses in a match. On
 
 ## Saved decks
 
-- **DECK-10** A Summoner can save more than one deck. `[TBD]` Maximum number of saved decks.
+- **DECK-10** A Summoner can save more than one deck. `[TBD]` Maximum number of saved decks (`MAX_SAVED_DECKS`).
 
 ## Starter deck
 

@@ -43,7 +43,7 @@ Summoners are ranked by Trophies, which only Ranked matches change. Play is spli
 
 - **RANK-11** The first time in a season that a Summoner reaches an Orbit higher than their current one, they receive a reward in Shards.
 
-  `[TBD]` Amount of the reward.
+  `[TBD]` Amount of the reward (`ORBIT_REWARD_MULTIPLIER`).
 
 ## Leaderboard
 

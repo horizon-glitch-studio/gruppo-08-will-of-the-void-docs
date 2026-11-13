@@ -23,7 +23,7 @@ Every creature belongs to a faction: the element it is made of. Six factions are
 ## Rules
 
 - **FAC-01** Every elemental faction prevails over two factions, is overpowered by two factions and is even with one.
-- **FAC-02** When a creature faces a creature of a faction it prevails over, it gets an ATK bonus (`ADVANTAGE_VALUE`) for the whole clash. The overpowered creature gets no modifier.
+- **FAC-02** When a creature faces a creature of a faction it prevails over, it gets +3 ATK (`ADVANTAGE_VALUE`) `[TEST]` for the whole clash. The overpowered creature gets no modifier.
 - **FAC-03** Every advantage is of the same kind: a bonus to the ATK of the creature that prevails. No advantage lowers the ATK of the opponent.
 - **FAC-04** Two creatures of even factions, or of the same faction, clash with no modifier.
 - **FAC-05** An inert faction (Gem, Noble Gas) never gives or receives an advantage, against any faction, inert or elemental.
