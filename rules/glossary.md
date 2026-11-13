@@ -43,8 +43,6 @@ Rarities and factions are always singular, also when they describe a group: "a C
 | Elemental faction | Fazione elementale | Lava, Electro, Radio, Ice, Metal or Matte. Elemental factions give and receive advantages. | [factions.md](factions.md) |
 | Inert faction | Fazione inerte | Gem or Noble Gas. An inert faction never gives or receives advantages. | [factions.md](factions.md) |
 | Advantage | Vantaggio | The modifier a faction gets against a faction it prevails over. It lasts for the whole clash. | [factions.md](factions.md) |
-| Offensive advantage | Vantaggio offensivo | The creature that prevails gets more ATK. | [factions.md](factions.md) |
-| Defensive advantage | Vantaggio difensivo | The opposing creature gets less ATK, never below 1. | [factions.md](factions.md) |
 | Even | Alla pari | Two factions with no advantage between them. Two creatures of the same faction are always even. | [factions.md](factions.md) |
 
 ## Rarities
@@ -86,7 +84,7 @@ From the most common to the rarest.
 | Energy | Energia | The match score. A Summoner gains Energy when its creature defeats the opposing one. The first to reach the win threshold wins. It replaces the life points of the brief. | [match.md](match.md) |
 | Win threshold | Soglia di vittoria | The Energy needed to win a match. It depends on the mode. | [match.md](match.md) |
 | Deck exhaustion | Mazzo esaurito | The moment a deck has no cards left to deploy. The match ends. | [match.md](match.md) |
-| End bonus | Bonus di fine mazzo | The Energy given for each surviving creature when the match ends by deck exhaustion. | [match.md](match.md) |
+| End bonus | Bonus di fine mazzo | The Energy given for every card a Summoner still has, the card in the Arena included, when the match ends by deck exhaustion. | [match.md](match.md) |
 | Draw | Pareggio | A match that ends with the same Energy for both Summoners. | [match.md](match.md) |
 | Replay | Replay | The turn-by-turn record of a match, visible to both Summoners. | [match.md](match.md) |
 
@@ -94,7 +92,7 @@ From the most common to the rarest.
 
 | Term | Italian | Definition | Rules |
 | --- | --- | --- | --- |
-| Friend match | Partita tra amici | A match against a Summoner chosen by the player. No Trophies, no rewards. | [game-modes.md](game-modes.md) |
+| Friend match | Partita tra amici | A match against one of the Summoner's friends. No Trophies, no rewards. | [game-modes.md](game-modes.md) |
 | Quick match | Partita veloce | A match against a random, recently active Summoner. No Trophies, no rewards. | [game-modes.md](game-modes.md) |
 | Ranked match | Partita classificata | A match that changes Trophies. Both Summoners need a defense deck. | [game-modes.md](game-modes.md) |
 | Challenge | Sfida | A match request that the other Summoner must accept within a time limit. Used in Friend and Quick matches when the opponent has no defense deck. | [game-modes.md](game-modes.md) |
