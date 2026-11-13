@@ -18,7 +18,7 @@ Reference specification of the game rules. It is the single source of truth for 
 | [ranking.md](ranking.md) | Trophies (Elo), seasons, Orbits | Review | 2 |
 | [trades.md](trades.md) | Trade rules, minimum collection threshold | Stable | – |
 | [packs.md](packs.md) | Standard and event packs, slots, probabilities, guarantees | Review | 1 |
-| [economy.md](economy.md) | Shards, rewards, conversion to real money (from phase 2) | Draft | – |
+| [economy.md](economy.md) | Shards, rewards, conversion to real money (from phase 2) | Review | 7 |
 
 ### Reference
 
