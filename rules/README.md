@@ -25,7 +25,7 @@ Reference specification of the game rules. It is the single source of truth for 
 | File | Content | Status | Open `[TBD]` |
 | --- | --- | --- | --- |
 | [parameters.md](parameters.md) | Every configurable value, with its status | Stable | (6) |
-| [brief-compliance.md](brief-compliance.md) | Each requirement of the brief, where it is met, and the deviations approved by the teachers | Draft | – |
+| [brief-compliance.md](brief-compliance.md) | Each requirement of the brief, where it is met, and the deviations approved by the teachers | Stable | – |
 
 Status: **Draft** (being written), **Review** (complete, waiting for review), **Stable** (reviewed; changes go through a pull request).
 
