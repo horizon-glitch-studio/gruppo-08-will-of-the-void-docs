@@ -15,7 +15,7 @@ Reference specification of the game rules. It is the single source of truth for 
 | [decks.md](decks.md) | Deck constraints, starter deck, defense deck, deck validity | Review | 1 |
 | [match.md](match.md) | How a match is simulated: clash, rounds, Energy, end of match | Stable | – |
 | [game-modes.md](game-modes.md) | Friend, Quick and Ranked matches, opponent search, shield, rematch, tournament (phase 2) | Stable | – |
-| [ranking.md](ranking.md) | Trophies (Elo), seasons, Orbits | Draft | – |
+| [ranking.md](ranking.md) | Trophies (Elo), seasons, Orbits | Review | 2 |
 | [trades.md](trades.md) | Trade rules, minimum collection threshold | Draft | – |
 | [packs.md](packs.md) | Standard and event packs, slots, probabilities, guarantees | Draft | – |
 | [economy.md](economy.md) | Shards, rewards, conversion to real money (from phase 2) | Draft | – |
