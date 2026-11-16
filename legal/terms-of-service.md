@@ -1,0 +1,49 @@
+# Terms of Service
+**The rules for using Will of the Void.**  
+**Last updated:** November 16, 2026
+
+## The service
+**Will of the Void** is a digital-only collectible card game developed and published by **Horizon Glitch Studio** ("we", "us", or "our"). By accessing the portal or creating an account, you agree to be bound by these Terms of Service. All official game mechanics, card rules, and terminology are governed by our official game ruleset.
+
+## Your account
+* **Eligibility:** You must be at least **14 years old** to register an account. By creating an account and providing your date of birth, you confirm that you meet this requirement.
+* **Account Security:** You are responsible for keeping your login credentials confidential and for all activities performed under your Summoner profile.
+* **One Account Policy:** Each player may maintain only one active account. Creating multiple accounts to exploit registration, daily, comeback, or invite bonuses is strictly prohibited.
+* **Email Verification:** Certain portal features—including proposing or accepting card Trades and claiming specific rewards—require a verified email address.
+
+## Shards and packs
+* **Virtual Currency (Shards):** Shards are the in-game virtual currency used exclusively to acquire Packs in the Shop. Shards have no monetary value outside the game, cannot be exchanged for real money, and cannot be traded or transferred between Summoners.
+* **Phase 1 & Phase 2 Economy:** During the initial launch period (**Phase 1**), Shards can only be earned through gameplay, login rewards, Season placements, and eligible referral invites. Starting from month 13 after launch (**Phase 2**), Horizon Glitch Studio plans to introduce optional real-money purchases of Shards (at a planned reference rate of 200 Shards per €1.00, subject to applicable taxes and bundle terms).
+* **Packs & Probabilities:** Packs contain randomized digital cards distributed across rarity tiers according to published slot probabilities and guarantee rules. All Pack acquisitions using Shards are final and non-refundable.
+* **License to Virtual Items:** You do not own the underlying intellectual property of the cards, Packs, or Shards. We grant you a personal, non-exclusive, non-transferable, revocable license to use these virtual items within Will of the Void.
+
+## Trades
+* **Card-Only Exchanges:** Summoners with a verified email and a collection meeting the minimum card threshold (at least 30 cards remaining after the exchange) may propose free card-for-card Trades.
+* **Restrictions:** Shards and **Wanderer** cards cannot be traded. A Trade executes atomically only when the recipient accepts it before expiration.
+* **No Real-Money Trading (RMT):** Buying, selling, or auctioning cards, accounts, or Trade offers for real-world currency or external items of value is strictly forbidden.
+
+## Fair play
+To keep the Arena fair for every Summoner, you agree not to:
+* Use bots, scripts, automation tools, or unauthorized third-party software to play matches, refresh opponent lists, or farm Shards.
+* Exploit bugs, server vulnerabilities, or time zone settings to gain an unintended advantage.
+* Harass, impersonate, or abuse other players or Horizon Glitch Studio staff.
+* Reverse-engineer, decompile, or scrape data from the Will of the Void portal or APIs.
+
+Violations of these rules may result in warnings, Trophies or Shards resets, Trade restrictions, temporary suspension, or permanent account termination.
+
+## Changes to the game
+We continuously update Will of the Void to keep the game balanced and engaging. Horizon Glitch Studio reserves the right to:
+* Adjust card statistics, faction interactions, energy thresholds, pack probabilities, Shard reward multipliers, and Season rules.
+* Introduce new card sets, limited-time Event packs, or game modes (such as Tournaments in Phase 2).
+* Rotate time-limited **Wanderer** cards into the non-playable memory archive once their active duration expires.
+* Modify, suspend, or discontinue any part of the service with reasonable prior notice.
+
+## Closing an account
+* **By You:** You may close your account at any time via your account settings or by contacting **support@willofthevoid.com**.
+* **By Us:** We may suspend or terminate your account if you breach these Terms of Service, engage in fraudulent activity, or violate fair play rules. Upon closure, your license to access the game and all associated virtual cards, Trophies, and Shards ends immediately without compensation.
+
+## Contact
+These Terms are governed by the laws of Italy, without prejudice to mandatory consumer protection provisions applicable in your country of residence.
+* **General Inquiries:** hello@willofthevoid.com
+* **Support:** support@willofthevoid.com
+* **Developer:** Horizon Glitch Studio, Turin, Italy
