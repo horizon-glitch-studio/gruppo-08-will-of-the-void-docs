@@ -111,7 +111,7 @@ See [match.md](https://github.com/horizon-glitch-studio/gruppo-08-will-of-the-vo
 - The survivor stays with the DEF it has left; a Summoner whose creature was defeated deploys the next card.
 - The first to reach the win threshold wins: 30 Energy in Ranked and Friend, 20 in Quick `[TEST]`.
 - At deck exhaustion each Summoner gains 4 Energy `[TEST]` for every card left, the card in the Arena included; more Energy wins, equal Energy is a draw.
-- The full match is saved and both Summoners can watch it.
+- The full match is saved; both Summoners can watch the replay for 90 days.
 
 ## Game modes
 

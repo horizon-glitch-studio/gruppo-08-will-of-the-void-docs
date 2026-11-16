@@ -42,7 +42,7 @@ Status: **Decided**, `[TEST]` (decided, to be confirmed by tests), `[TBD]` (to b
 | `MAX_PER_DECK_ELECT` | 2 | Decided | DECK-03 |
 | `MAX_PER_DECK_WANDERER` | 1 | Decided | DECK-03 |
 | `MAX_PER_FACTION` | 15 | Decided | DECK-04 |
-| `MAX_SAVED_DECKS` | – | `[TBD]` | DECK-10 |
+| `MAX_SAVED_DECKS` | 20 | Decided | DECK-10 |
 
 ## Match
 
@@ -52,6 +52,7 @@ Status: **Decided**, `[TEST]` (decided, to be confirmed by tests), `[TBD]` (to b
 | `WIN_THRESHOLD_FRIEND` | 30 Energy | Decided | MATCH-12 |
 | `WIN_THRESHOLD_QUICK` | 20 Energy | `[TEST]` | MATCH-12 |
 | `END_BONUS_PER_CARD` | 4 Energy | `[TEST]` | MATCH-14 |
+| `REPLAY_RETENTION_DAYS` | 90 | Decided | MATCH-18 |
 
 ## Game modes
 
@@ -65,6 +66,8 @@ Status: **Decided**, `[TEST]` (decided, to be confirmed by tests), `[TBD]` (to b
 | `QUICK_ATTACKS_PER_OPPONENT` | 3 every 24 hours | Decided | MODE-17 |
 | `SHIELD_TRIGGER_ATTACKS` | 5 Ranked attacks in 24 hours | Decided | MODE-19 |
 | `SHIELD_DURATION_HOURS` | 12 | Decided | MODE-19 |
+| `MAX_FRIENDS` | 100 | Decided | MODE-25 |
+| `MAX_PENDING_FRIEND_REQUESTS` | 10 | Decided | MODE-26 |
 
 Trophy range for the opponent search (MODE-12, MODE-13), decided:
 

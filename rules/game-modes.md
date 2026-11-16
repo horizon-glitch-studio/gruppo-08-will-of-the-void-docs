@@ -59,6 +59,11 @@ Every mode uses the same match rules (see [match.md](match.md)). What changes is
 - **MODE-23** After a Friend or Quick match, either Summoner can ask for a rematch, any number of times. A rematch works like a new match: instant or challenge, as in MODE-03 and MODE-04.
 - **MODE-24** There is no rematch in Ranked.
 
+## Friends
+
+- **MODE-25** A Summoner can have at most 100 friends (`MAX_FRIENDS`).
+- **MODE-26** A Summoner can have at most 10 sent friend requests waiting for an answer (`MAX_PENDING_FRIEND_REQUESTS`). Requests can be sent to Summoners who are offline.
+
 ## Phase 2
 
 Planned after launch, not part of these rules: tournaments, and training against an AI opponent of increasing level.

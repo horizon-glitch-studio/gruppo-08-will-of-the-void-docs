@@ -12,9 +12,9 @@ Reference specification of the game rules. It is the single source of truth for 
 | [factions.md](factions.md) | Factions, inert factions, advantages and the advantage matrix | Stable | – |
 | [cards-and-rarities.md](cards-and-rarities.md) | Rarities, points, ATK and DEF ranges, Wanderer duration, memory archive | Stable | – |
 | [card-set.md](card-set.md) | Starting card set and the values of every card | Draft | – |
-| [decks.md](decks.md) | Deck constraints, starter deck, defense deck, deck validity | Review | 1 |
+| [decks.md](decks.md) | Deck constraints, starter deck, defense deck, deck validity | Review | – |
 | [match.md](match.md) | How a match is simulated: clash, rounds, Energy, end of match | Stable | – |
-| [game-modes.md](game-modes.md) | Friend, Quick and Ranked matches, opponent search, shield, rematch, tournament (phase 2) | Stable | – |
+| [game-modes.md](game-modes.md) | Friend, Quick and Ranked matches, opponent search, shield, rematch, friend limits, tournament (phase 2) | Stable | – |
 | [ranking.md](ranking.md) | Trophies (Elo), seasons, Orbits | Review | 2 |
 | [trades.md](trades.md) | Trade rules, minimum collection threshold | Stable | – |
 | [packs.md](packs.md) | Standard and event packs, slots, probabilities, guarantees | Review | 1 |
@@ -24,7 +24,7 @@ Reference specification of the game rules. It is the single source of truth for 
 
 | File | Content | Status | Open `[TBD]` |
 | --- | --- | --- | --- |
-| [parameters.md](parameters.md) | Every configurable value, with its status | Stable | (6) |
+| [parameters.md](parameters.md) | Every configurable value, with its status | Stable | (5) |
 | [brief-compliance.md](brief-compliance.md) | Each requirement of the brief, where it is met, approved deviations | Stable | – |
 
 Status: **Draft** (being written), **Review** (complete, waiting for review), **Stable** (reviewed; changes go through a pull request).

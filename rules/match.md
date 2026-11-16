@@ -43,7 +43,7 @@ A match is a battle between two decks. The server simulates it from start to end
 
 ## Replay
 
-- **MATCH-18** The full match, round by round, is saved in the match history of both Summoners and both can watch it.
+- **MATCH-18** The full match, round by round, is saved in the match history of both Summoners and both can watch it for 90 days (`REPLAY_RETENTION_DAYS`). The result stays in the history.
 
 ## Example
 

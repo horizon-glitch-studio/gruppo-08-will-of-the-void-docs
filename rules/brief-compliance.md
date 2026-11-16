@@ -66,7 +66,7 @@ How the rules meet the requirements of the project brief. This file covers only 
 | A trade happens only if the recipient accepts. | TRADE-06 | |
 | No card is lost or duplicated in a trade. | TRADE-10, TRADE-11 | |
 | User A challenges user B with one of their decks; when B accepts, choosing a deck, the system simulates the match. | MODE-03 … MODE-08 | Matches against a defense deck start at once: see Approved deviations. |
-| The result, turn by turn, is available to both users. | MATCH-18 | |
+| The result, turn by turn, is available to both users. | MATCH-18 | Replays are kept for 90 days; the result stays in the history. |
 | History of the matches played and their results. | MATCH-18 | |
 | Backoffice for the card catalog. | CARD-08 | The backoffice checks the card rules when a card is created or edited. |
 

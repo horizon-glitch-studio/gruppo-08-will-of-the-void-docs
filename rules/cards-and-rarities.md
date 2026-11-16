@@ -43,7 +43,7 @@ The same rules apply to every faction, elemental and inert.
 ## Collection
 
 - **CARD-09** A Summoner can own any number of copies of a card, except Wanderer cards (CARD-11).
-- **CARD-10** Copies stay in the collection until they are traded. They are never converted into anything else.
+- **CARD-10** Copies stay in the collection until they are traded. They are never converted into anything else. If a card is removed from the catalog, copies already owned stay in the collection and can still be played.
 
 ## Wanderer cards
 
